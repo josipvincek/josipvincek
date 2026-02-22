@@ -1,16 +1,83 @@
-## Hi there 👋
+# Josip Vincek
 
-<!--
-**josipvincek/josipvincek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computational Subsurface Engineering | Rock Mechanics, Energy & Infrastructure | PhD Researcher**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I am a Mining Engineer and PhD researcher focused on computational modelling in subsurface engineering. My work integrates analytical stress solutions, rock mass strength criteria, and stability assessment methods into reproducible engineering tools.
+
+I develop scientific and production-oriented software for underground design, wellbore stability, and energy-related subsurface systems. My goal is to bridge rigorous rock mechanics with modern computational workflows and decision-support systems.
+
+---
+
+## Focus Areas
+
+- Advanced Computational Geomechanics for Subsurface Systems  
+- Analytical and Constitutive Modelling of Rock Mass Behaviour  
+- Stress Redistribution, Failure Initiation & Stability Margins in Excavations and Wellbores  
+- Energy-Driven Subsurface Applications (Geothermal, Hydrocarbons, CO₂ & Underground Storage)  
+- Quantitative Risk, Sensitivity & Decision-Support Frameworks  
+- Reproducible, Modular Engineering Software Development  
+
+---
+
+## Featured Work
+
+🔹 **RockStressCalc (Lite)**  
+Analytical stress and stability modelling toolkit for circular openings.  
+→ https://github.com/josipvincek/rockstresscalc-lite  
+
+🔹 **Geomechanics Notebooks**  
+Reproducible computational notebooks for rock mechanics and stress analysis.  
+→ https://github.com/josipvincek/geomechanics-notebooks  
+
+🔹 **Rock Engineering Utilities**  
+Reusable Python utilities for rock mechanics workflows.  
+→ https://github.com/josipvincek/rock-engineering-utils  
+
+🔹 **Rocklytics API Samples**  
+Example usage of modular geomechanical API workflows.  
+→ https://github.com/josipvincek/rocklytics-api-samples  
+
+---
+
+## Research
+
+- *A Computational Approach to Preliminary Tunnel Design: Integrating Kirsch Equations and the Generalized Hoek–Brown Criterion*  
+  (MDPI Applied Sciences / in review)
+
+- Ongoing PhD research:  
+  *Application models for identifying accident scenarios in underground spaces and optimizing response strategies.*
+
+Publication links and datasets will be made available as companion repositories.
+
+---
+
+## Tech Stack
+
+**Languages & Scientific Computing**  
+Python, NumPy, Pandas, Matplotlib
+
+**Backend & APIs**  
+FastAPI, Pydantic
+
+**Frontend & UI**  
+Flutter
+
+**DevOps & Engineering Workflow**  
+Docker, GitHub Actions (CI), Pytest, structured validation & export pipelines
+
+---
+
+## Contact
+
+📍 Zagreb, Croatia  
+📧 vincek.josip.96@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/josipvincek  
+🔗 SciProfiles: https://sciprofiles.com/profile/josip-vincek
+
+---
+
+> Engineering first. Computation as a tool. Reproducibility as a standard.
