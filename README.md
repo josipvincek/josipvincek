@@ -6,9 +6,11 @@
 
 ## About
 
-I am a Mining Engineer and PhD researcher focused on computational modelling in subsurface engineering. My work integrates analytical stress solutions, rock mass strength criteria, and stability assessment methods into reproducible engineering tools.
+I am a Mining Engineer and PhD researcher specializing in computational subsurface engineering. My work focuses on modelling stress redistribution, rock mass behaviour, and stability margins in underground excavations and wellbores, with applications spanning infrastructure and energy systems.
 
-I develop scientific and production-oriented software for underground design, wellbore stability, and energy-related subsurface systems. My goal is to bridge rigorous rock mechanics with modern computational workflows and decision-support systems.
+I integrate analytical mechanics, constitutive rock mass models, and quantitative stability assessment into reproducible computational frameworks. The objective is not only numerical calculation, but engineering insight — translating stress, strength, and uncertainty into structured decision-support tools.
+
+Alongside research, I design modular engineering software that bridges scientific rigour with practical application, enabling scalable workflows for geomechanics and subsurface energy projects.
 
 ---
 
