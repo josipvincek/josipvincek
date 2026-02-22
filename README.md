@@ -25,21 +25,9 @@ I develop scientific and production-oriented software for underground design, we
 
 ## Featured Work
 
-🔹 **RockStressCalc (Lite)**  
-Analytical stress and stability modelling toolkit for circular openings.  
-→ https://github.com/josipvincek/rockstresscalc-lite  
-
 🔹 **Geomechanics Notebooks**  
 Reproducible computational notebooks for rock mechanics and stress analysis.  
-→ https://github.com/josipvincek/geomechanics-notebooks  
-
-🔹 **Rock Engineering Utilities**  
-Reusable Python utilities for rock mechanics workflows.  
-→ https://github.com/josipvincek/rock-engineering-utils  
-
-🔹 **Rocklytics API Samples**  
-Example usage of modular geomechanical API workflows.  
-→ https://github.com/josipvincek/rocklytics-api-samples  
+→ *update*  
 
 ---
 
