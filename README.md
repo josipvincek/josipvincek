@@ -66,7 +66,10 @@ Docker, GitHub Actions (CI), Pytest, structured validation & export pipelines
 📍 Zagreb, Croatia  
 📧 vincek.josip.96@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/josipvincek  
+🔗 Google Scholar: https://scholar.google.com/citations?user=SxkH8hkAAAAJ&hl=en
+🔗 ORCID: https://orcid.org/0000-000X-XXXX-XXXX
 🔗 SciProfiles: https://sciprofiles.com/profile/josip-vincek
+🔗 ResearchGate: https://www.researchgate.net/profile/Josip-Vincek?ev=hdr_xprf
 
 ---
 
