@@ -1,76 +1,74 @@
 # Josip Vincek
 
-**Computational Subsurface Engineering | Rock Mechanics, Energy & Infrastructure | PhD Researcher**
+**Computational Subsurface Engineering | Rock Mechanics | Tunnel & Energy Systems | PhD Researcher**
 
 ---
 
 ## About
 
-I am a Mining Engineer and PhD researcher specializing in computational subsurface engineering. My work focuses on modelling stress redistribution, rock mass behaviour, and stability margins in underground excavations and wellbores, with applications spanning infrastructure and energy systems.
+I am a Mining Engineer and PhD researcher working at the intersection of classical rock mechanics and modern computational engineering.
 
-I integrate analytical mechanics, constitutive rock mass models, and quantitative stability assessment into reproducible computational frameworks. The objective is not only numerical calculation, but engineering insight — translating stress, strength, and uncertainty into structured decision-support tools.
+My research focuses on stress redistribution, rock mass strength modelling, and stability assessment in underground excavations and wellbores. I develop analytically grounded, reproducible computational frameworks that translate mechanical theory into structured engineering decision tools.
 
-Alongside research, I design modular engineering software that bridges scientific rigour with practical application, enabling scalable workflows for geomechanics and subsurface energy projects.
+The emphasis of my work is transparency: explicit assumptions, deterministic formulations, and validation against numerical models. Rather than relying solely on large-scale finite element simulations, I investigate how closed-form solutions, constitutive rock mass criteria, and strength-to-stress metrics can be integrated into rigorous and computationally efficient workflows.
 
----
-
-## Focus Areas
-
-- Advanced Computational Geomechanics for Subsurface Systems  
-- Analytical and Constitutive Modelling of Rock Mass Behaviour  
-- Stress Redistribution, Failure Initiation & Stability Margins in Excavations and Wellbores  
-- Energy-Driven Subsurface Applications (Geothermal, Hydrocarbons, CO₂ & Underground Storage)  
-- Quantitative Risk, Sensitivity & Decision-Support Frameworks  
-- Reproducible, Modular Engineering Software Development  
+In parallel, I design modular engineering software architectures for geomechanics and subsurface energy applications, enabling scalable, validated, and reproducible analysis pipelines.
 
 ---
 
-## Featured Work
+## Research Focus
 
-🔹 **Geomechanics Notebooks**  
-Reproducible computational notebooks for rock mechanics and stress analysis.  
-→ *update*  
-
----
-
-## Research
-
-- *A Computational Approach to Preliminary Tunnel Design: Integrating Kirsch Equations and the Generalized Hoek–Brown Criterion*  
-  (MDPI Applied Sciences / in review)
-
-- Ongoing PhD research:  
-  *Application models for identifying accident scenarios in underground spaces and optimizing response strategies.*
-
-Publication links and datasets will be made available as companion repositories.
+- Computational Geomechanics for Underground Systems  
+- Analytical Stress Solutions (Kirsch-type formulations)  
+- Hoek–Brown and Rock Mass Strength Modelling  
+- Stability Assessment of Excavations and Wellbores  
+- Strength-to-Stress Ratio & Elastic Benchmarking Methods  
+- Parametric and Sensitivity Analysis in Subsurface Engineering  
+- Reproducible Engineering Software Frameworks  
 
 ---
 
-## Tech Stack
+## Publications & Ongoing Work
 
-**Languages & Scientific Computing**  
-Python, NumPy, Pandas, Matplotlib
+**A Computational Approach to Preliminary Tunnel Design: Integrating Kirsch Equations and the Generalized Hoek–Brown Criterion**  
+*Applied Sciences (2026) – Accepted*
 
-**Backend & APIs**  
-FastAPI, Pydantic
+This work presents a transparent analytical framework for coupling elastic stress redistribution with rock mass strength evaluation, including validation against finite-element simulations.
 
-**Frontend & UI**  
-Flutter
+Ongoing PhD research investigates computational models for identifying accident scenarios in underground spaces and optimizing response strategies through structured analytical–numerical integration.
 
-**DevOps & Engineering Workflow**  
-Docker, GitHub Actions (CI), Pytest, structured validation & export pipelines
+Companion repositories and reproducible examples will be released alongside publications.
 
 ---
 
-## Contact
+## Technical Stack
+
+### Scientific Computing
+Python · NumPy · SciPy · Pandas · Matplotlib  
+Vectorized numerical methods · Deterministic modelling · Validation workflows  
+
+### Backend & APIs
+FastAPI · Pydantic · Structured data validation  
+
+### Engineering Workflow
+Pytest · CI pipelines · Modular architecture · Export automation  
+
+### Interface Development
+Flutter (engineering-focused UI systems)
+
+---
+
+## Academic & Professional Profiles
 
 📍 Zagreb, Croatia  
-📧 vincek.josip.96@gmail.com  
+📧 vincek.josip.96@gmail.com | jvincek@rgn.hr  
+
 🔗 LinkedIn: https://www.linkedin.com/in/josipvincek  
-🔗 Google Scholar: https://scholar.google.com/citations?user=SxkH8hkAAAAJ&hl=en
-🔗 ORCID: https://orcid.org/0000-000X-XXXX-XXXX
-🔗 SciProfiles: https://sciprofiles.com/profile/josip-vincek
-🔗 ResearchGate: https://www.researchgate.net/profile/Josip-Vincek?ev=hdr_xprf
+🔗 Google Scholar: https://scholar.google.com/citations?user=SxkH8hkAAAAJ&hl=en  
+🔗 ORCID: https://orcid.org/0000-000X-XXXX-XXXX  
+🔗 SciProfiles: https://sciprofiles.com/profile/josip-vincek  
+🔗 ResearchGate: https://www.researchgate.net/profile/Josip-Vincek  
 
 ---
 
-> Engineering first. Computation as a tool. Reproducibility as a standard.
+> Engineering first. Transparent computation. Reproducible decision frameworks.
