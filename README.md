@@ -70,25 +70,17 @@ My work focuses on integrating classical rock mechanics with structured computat
 - Stability evaluation pipelines
 - Structured validation environments
 
-Designed for reproducibility, extensibility, and engineering-grade reliability.
+Focused on reproducibility, methodological clarity, and structured engineering validation.
 
 ---
 
 ## Engineering Stack
 
-### Scientific Computing
-Python · NumPy · SciPy · Pandas · Matplotlib  
-Deterministic modelling · Vectorized computation · Validation pipelines  
-
-### Backend & API Systems
-FastAPI · Pydantic · Structured Data Models
-
-### Validation & Architecture
-Pytest · CI pipelines · Modular System Design  
-
-### Interface Systems
-Flutter (engineering-focused UI systems)
+**Scientific Computing:** Python · NumPy · SciPy · Pandas · Matplotlib  
+**Backend & APIs:** FastAPI · Pydantic  
+**Validation & Architecture:** Pytest · CI Pipelines · Modular Design  
+**Interface Systems:** Flutter
 
 ---
 
-> Research-driven engineering. Deep-tech foundations. Transparent computation.
+> Analytical rigour. Structured computation. Engineering clarity.
