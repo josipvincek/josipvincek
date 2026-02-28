@@ -25,15 +25,15 @@ My work focuses on integrating classical rock mechanics with structured computat
 
 ## Research & Engineering Domains
 
-### Core Mechanics
-- Stress Redistribution & Analytical Modelling  
+**Mechanics**
+- Stress Redistribution  
 - Rock Mass Strength Criteria  
-- Stability & Failure Proximity Metrics  
+- Stability & Failure Proximity  
 
-### Computational Systems
+**Computational Methods**
 - Analytical–Numerical Benchmarking  
 - Deterministic & Reproducible Workflows  
-- Validation-Driven Software Architectures  
+- Validation-Oriented Architectures  
 
 ---
 
