@@ -73,11 +73,11 @@ Flutter (engineering-focused UI systems)
 
 ## Academic & Professional Links
 
-🔗 LinkedIn → https://www.linkedin.com/in/josipvincek  
+🔗 LinkedIn → https://www.linkedin.com/in/josipvincek
 🔗 ORCID → https://orcid.org/0009-0000-1622-834X
 🔗 ResearchGate → https://www.researchgate.net/profile/Josip-Vincek
-🔗 Google Scholar → https://scholar.google.com/citations?user=SxkH8hkAAAAJ      
-🔗 SciProfiles → https://sciprofiles.com/profile/josip-vincek  
+🔗 Google Scholar → https://scholar.google.com/citations?user=SxkH8hkAAAAJ
+🔗 SciProfiles → https://sciprofiles.com/profile/josip-vincek
 🔗 Academia → https://rgn.academia.edu/JosipVincek
 
 ---
