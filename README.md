@@ -1,74 +1,85 @@
 # Josip Vincek
 
-**Computational Subsurface Engineering | Rock Mechanics | Tunnel & Energy Systems | PhD Researcher**
+**Computational Subsurface Engineering | Geomechanics | Analytical & Reproducible Engineering Systems**
 
 ---
 
-## About
+## Vision
 
-I am a Mining Engineer and PhD researcher working at the intersection of classical rock mechanics and modern computational engineering.
+Engineering decisions in subsurface systems must be transparent, defensible, and computationally structured.
 
-My research focuses on stress redistribution, rock mass strength modelling, and stability assessment in underground excavations and wellbores. I develop analytically grounded, reproducible computational frameworks that translate mechanical theory into structured engineering decision tools.
+My work focuses on building analytically grounded and reproducible computational frameworks for underground engineering, integrating classical rock mechanics with modern software architecture.
 
-The emphasis of my work is transparency: explicit assumptions, deterministic formulations, and validation against numerical models. Rather than relying solely on large-scale finite element simulations, I investigate how closed-form solutions, constitutive rock mass criteria, and strength-to-stress metrics can be integrated into rigorous and computationally efficient workflows.
-
-In parallel, I design modular engineering software architectures for geomechanics and subsurface energy applications, enabling scalable, validated, and reproducible analysis pipelines.
+The long-term objective is the development of modular, validation-driven engineering systems that bridge mechanical theory and deployable computational tools.
 
 ---
 
-## Research Focus
+## Research & Engineering Focus
 
-- Computational Geomechanics for Underground Systems  
-- Analytical Stress Solutions (Kirsch-type formulations)  
-- Hoek–Brown and Rock Mass Strength Modelling  
-- Stability Assessment of Excavations and Wellbores  
-- Strength-to-Stress Ratio & Elastic Benchmarking Methods  
-- Parametric and Sensitivity Analysis in Subsurface Engineering  
-- Reproducible Engineering Software Frameworks  
-
----
-
-## Publications & Ongoing Work
-
-**A Computational Approach to Preliminary Tunnel Design: Integrating Kirsch Equations and the Generalized Hoek–Brown Criterion**  
-*Applied Sciences (2026) – Accepted*
-
-This work presents a transparent analytical framework for coupling elastic stress redistribution with rock mass strength evaluation, including validation against finite-element simulations.
-
-Ongoing PhD research investigates computational models for identifying accident scenarios in underground spaces and optimizing response strategies through structured analytical–numerical integration.
-
-Companion repositories and reproducible examples will be released alongside publications.
+- Geomechanics & Underground Systems  
+- Analytical Stress Modelling  
+- Rock Mass Strength Criteria  
+- Stability & Failure Proximity Assessment  
+- Analytical–Numerical Benchmarking  
+- Structured Engineering Software Architectures  
 
 ---
 
-## Technical Stack
+# 🛡 2️⃣ DOI BADGE (Shields)
+
+## Selected Publication
+
+[![Published](https://img.shields.io/badge/Published-Applied%20Sciences%202026-2c3e50)](https://doi.org/10.3390/app16052347)
+[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fapp16052347-blue)](https://doi.org/10.3390/app16052347)
+**Vincek, J., Vujević, I., Škrlec, V., & Herceg, K. (2026).**  
+*A Computational Approach to Preliminary Tunnel Design: Integrating Kirsch Equations and the Generalized Hoek–Brown Criterion.*  
+Applied Sciences, 16(5), 2347.  
+
+DOI: https://doi.org/10.3390/app16052347  
+
+### Citation (BibTeX)
+
+```bibtex
+@article{Vincek2026KirschHB,
+  author  = {Vincek, Josip and Vujević, Ivan and Škrlec, Vinko and Herceg, Karolina},
+  title   = {A Computational Approach to Preliminary Tunnel Design: Integrating Kirsch Equations and the Generalized Hoek–Brown Criterion},
+  journal = {Applied Sciences},
+  volume  = {16},
+  number  = {5},
+  pages   = {2347},
+  year    = {2026},
+  doi     = {10.3390/app16052347}
+}
+```
+
+---
+
+## Engineering Stack
 
 ### Scientific Computing
 Python · NumPy · SciPy · Pandas · Matplotlib  
-Vectorized numerical methods · Deterministic modelling · Validation workflows  
+Deterministic modelling · Vectorized computation · Validation pipelines  
 
-### Backend & APIs
-FastAPI · Pydantic · Structured data validation  
+### Backend & API Systems
+FastAPI · Pydantic · Structured Data Models
 
-### Engineering Workflow
-Pytest · CI pipelines · Modular architecture · Export automation  
+### Validation & Architecture
+Pytest · CI pipelines · Modular System Design  
 
-### Interface Development
+### Interface Systems
 Flutter (engineering-focused UI systems)
 
 ---
 
-## Academic & Professional Profiles
+## Academic & Professional Links
 
-📍 Zagreb, Croatia  
-📧 vincek.josip.96@gmail.com | jvincek@rgn.hr  
-
-🔗 LinkedIn: https://www.linkedin.com/in/josipvincek  
-🔗 Google Scholar: https://scholar.google.com/citations?user=SxkH8hkAAAAJ&hl=en  
-🔗 ORCID: https://orcid.org/0009-0000-1622-834X  
-🔗 SciProfiles: https://sciprofiles.com/profile/josip-vincek  
-🔗 ResearchGate: https://www.researchgate.net/profile/Josip-Vincek  
+🔗 LinkedIn → https://www.linkedin.com/in/josipvincek  
+🔗 ORCID → https://orcid.org/0009-0000-1622-834X
+🔗 ResearchGate → https://www.researchgate.net/profile/Josip-Vincek
+🔗 Google Scholar → https://scholar.google.com/citations?user=SxkH8hkAAAAJ      
+🔗 SciProfiles → https://sciprofiles.com/profile/josip-vincek  
+🔗 Academia → https://rgn.academia.edu/JosipVincek
 
 ---
 
-> Engineering first. Transparent computation. Reproducible decision frameworks.
+> Transparent mechanics. Structured computation. Reproducible engineering.
