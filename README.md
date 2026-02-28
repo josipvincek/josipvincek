@@ -25,9 +25,7 @@ The long-term objective is the development of modular, validation-driven enginee
 
 ---
 
-# 🛡 2️⃣ DOI BADGE (Shields)
-
-## Selected Publication
+## 🛡 Selected Publication
 
 [![Published](https://img.shields.io/badge/Published-Applied%20Sciences%202026-2c3e50)](https://doi.org/10.3390/app16052347)
 [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fapp16052347-blue)](https://doi.org/10.3390/app16052347)
