@@ -33,8 +33,6 @@ The long-term objective is the development of modular, validation-driven enginee
 *A Computational Approach to Preliminary Tunnel Design: Integrating Kirsch Equations and the Generalized Hoek–Brown Criterion.*  
 Applied Sciences, 16(5), 2347.  
 
-DOI: https://doi.org/10.3390/app16052347  
-
 ### Citation (BibTeX)
 
 ```bibtex
