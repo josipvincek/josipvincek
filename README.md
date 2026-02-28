@@ -3,20 +3,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=64748B&center=true&vCenter=true&lines=Underground Engineering;Computational+Subsurface+Engineering;Analytical+%26+Reproducible+Systems;Research-Driven+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=64748B&center=true&vCenter=true&lines=Underground+Engineering;Computational+Subsurface+Engineering;Analytical+%26+Reproducible+Systems;Research-Driven+Engineering" />
 </p>
 
+
 <p align="center"> <a href="https://www.linkedin.com/in/josipvincek"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/> </a> <a href="https://orcid.org/0009-0000-1622-834X"> <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white"/> </a> <a href="https://scholar.google.com/citations?user=SxkH8hkAAAAJ"> <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google&logoColor=white"/> </a> <a href="https://www.researchgate.net/profile/Josip-Vincek"> <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white"/> </a> <a href="https://sciprofiles.com/profile/josip-vincek"> <img src="https://img.shields.io/badge/SciProfiles-1F6FEB"/> </a> <a href="https://rgn.academia.edu/JosipVincek"> <img src="https://img.shields.io/badge/Academia-41454A?logo=academia&logoColor=white"/> </a> </p>
+
+<p align="center">
+  ───────────────────────────────────────────────
+</p>
 
 ---
 
 ## Vision
 
-Engineering decisions in subsurface systems must be transparent, defensible, and computationally structured.
+Engineering analysis in subsurface systems should be transparent, reproducible, and methodologically rigorous.
 
-I build analytically grounded computational frameworks for underground engineering — integrating classical rock mechanics with modular software architectures.
-
-Long-term objective: research-backed engineering systems capable of scaling from analytical validation to deployable computational platforms.
+My work focuses on integrating classical rock mechanics with structured computational approaches to support analytical validation, modelling clarity, and engineering decision processes.
 
 ---
 
