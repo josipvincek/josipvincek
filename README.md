@@ -3,23 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=64748B&center=true&vCenter=true&lines=Geomechanics;Computational+Subsurface+Engineering;Analytical+%26+Reproducible+Systems;Research-Driven+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=64748B&center=true&vCenter=true&lines=Underground Engineering;Computational+Subsurface+Engineering;Analytical+%26+Reproducible+Systems;Research-Driven+Engineering" />
 </p>
 
-<p align="center">
-  <a href="https://doi.org/10.3390/app16052347">
-    <img src="https://img.shields.io/badge/Published-Applied%20Sciences%202026-111827"/>
-  </a>
-  <a href="https://doi.org/10.3390/app16052347">
-    <img src="https://img.shields.io/badge/DOI-10.3390%2Fapp16052347-2563eb"/>
-  </a>
-  <a href="https://orcid.org/0009-0000-1622-834X">
-    <img src="https://img.shields.io/badge/ORCID-0009--0000--1622--834X-a6ce39"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=SxkH8hkAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Citations-334155"/>
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/josipvincek"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/> </a> <a href="https://orcid.org/0009-0000-1622-834X"> <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white"/> </a> <a href="https://scholar.google.com/citations?user=SxkH8hkAAAAJ"> <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google&logoColor=white"/> </a> <a href="https://www.researchgate.net/profile/Josip-Vincek"> <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white"/> </a> <a href="https://sciprofiles.com/profile/josip-vincek"> <img src="https://img.shields.io/badge/SciProfiles-1F6FEB"/> </a> <a href="https://rgn.academia.edu/JosipVincek"> <img src="https://img.shields.io/badge/Academia-41454A?logo=academia&logoColor=white"/> </a> </p>
 
 ---
 
@@ -98,12 +85,6 @@ Pytest · CI pipelines · Modular System Design
 
 ### Interface Systems
 Flutter (engineering-focused UI systems)
-
----
-
-## Academic & Professional Links
-
-<p align="center"> <a href="https://www.linkedin.com/in/josipvincek"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/> </a> <a href="https://orcid.org/0009-0000-1622-834X"> <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white"/> </a> <a href="https://scholar.google.com/citations?user=SxkH8hkAAAAJ"> <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google&logoColor=white"/> </a> <a href="https://www.researchgate.net/profile/Josip-Vincek"> <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white"/> </a> <a href="https://sciprofiles.com/profile/josip-vincek"> <img src="https://img.shields.io/badge/SciProfiles-1F6FEB"/> </a> <a href="https://rgn.academia.edu/JosipVincek"> <img src="https://img.shields.io/badge/Academia-41454A?logo=academia&logoColor=white"/> </a> </p>
 
 ---
 
