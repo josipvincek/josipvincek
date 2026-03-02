@@ -1,20 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=170&section=header&text=Josip%20Vincek&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
 
 <p align="center">
-  <a href="https://doi.org/10.3390/app16052347">
-    <img src="https://img.shields.io/badge/Published-Applied%20Sciences%202026-111827"/>
-  </a>
-  <a href="https://doi.org/10.3390/app16052347">
-    <img src="https://img.shields.io/badge/DOI-10.3390%2Fapp16052347-2563eb"/>
-  </a>
   <a href="https://orcid.org/0009-0000-1622-834X">
     <img src="https://img.shields.io/badge/ORCID-0009--0000--1622--834X-a6ce39"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/josip-vincek">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
