@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=170&section=header&text=Josip%20Vincek&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-  <a href="https://orcid.org/0009-0000-1622-834X">
-    <img src="https://img.shields.io/badge/ORCID-0009--0000--1622--834X-a6ce39"/>
-  </a>
   <a href="https://www.linkedin.com/in/josip-vincek">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0000-1622-834X">
+    <img src="https://img.shields.io/badge/ORCID-0009--0000--1622--834X-a6ce39"/>
   </a>
   <a href="https://scholar.google.com/citations?user=SxkH8hkAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google&logoColor=white"/>
