@@ -8,12 +8,6 @@
   <a href="https://orcid.org/0009-0000-1622-834X">
     <img src="https://img.shields.io/badge/ORCID-0009--0000--1622--834X-a6ce39"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=SxkH8hkAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google&logoColor=white"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Josip-Vincek">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white"/>
-  </a>
 </p>
 
 ---
